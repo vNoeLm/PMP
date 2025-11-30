@@ -1,0 +1,27 @@
+﻿namespace ZHgyak2
+{
+    internal class Program
+    {
+        public enum ShipClassType
+        {
+            Cargo,
+            Military,
+            Researcher,
+            Mining,
+            Colonal,
+            Rescue,
+        }
+
+        enum CrewStatusType
+        {
+            Active = 1,
+            InCryoSleep = 2,
+            MissingInAction = 3,
+            Deceased = 4
+        }
+        static void Main(string[] args)
+        {
+            
+        }
+    }
+}

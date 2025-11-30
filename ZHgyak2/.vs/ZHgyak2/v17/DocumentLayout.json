@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Noel\\Documents\\GitHub\\Labor\\ZHgyak2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE8F6BC-7698-4430-8F06-150636AD3617}|ZHgyak2\\ZHgyak2.csproj|c:\\users\\noel\\documents\\github\\labor\\zhgyak2\\zhgyak2\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE8F6BC-7698-4430-8F06-150636AD3617}|ZHgyak2\\ZHgyak2.csproj|solutionrelative:zhgyak2\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE8F6BC-7698-4430-8F06-150636AD3617}|ZHgyak2\\ZHgyak2.csproj|c:\\users\\noel\\documents\\github\\labor\\zhgyak2\\zhgyak2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE8F6BC-7698-4430-8F06-150636AD3617}|ZHgyak2\\ZHgyak2.csproj|solutionrelative:zhgyak2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE8F6BC-7698-4430-8F06-150636AD3617}|ZHgyak2\\ZHgyak2.csproj|c:\\users\\noel\\documents\\github\\labor\\zhgyak2\\zhgyak2\\fleethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE8F6BC-7698-4430-8F06-150636AD3617}|ZHgyak2\\ZHgyak2.csproj|solutionrelative:zhgyak2\\fleethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Noel\\Documents\\GitHub\\Labor\\ZHgyak2\\ZHgyak2\\bin\\Debug\\net8.0\\weyland-yutani.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZHgyak2\\bin\\Debug\\net8.0\\weyland-yutani.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "weyland-yutani.csv",
+              "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\Labor\\ZHgyak2\\ZHgyak2\\bin\\Debug\\net8.0\\weyland-yutani.csv",
+              "RelativeDocumentMoniker": "ZHgyak2\\bin\\Debug\\net8.0\\weyland-yutani.csv",
+              "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\Labor\\ZHgyak2\\ZHgyak2\\bin\\Debug\\net8.0\\weyland-yutani.csv",
+              "RelativeToolTip": "ZHgyak2\\bin\\Debug\\net8.0\\weyland-yutani.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-11-26T20:30:09.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FleetHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\Labor\\ZHgyak2\\ZHgyak2\\FleetHandler.cs",
+              "RelativeDocumentMoniker": "ZHgyak2\\FleetHandler.cs",
+              "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\Labor\\ZHgyak2\\ZHgyak2\\FleetHandler.cs",
+              "RelativeToolTip": "ZHgyak2\\FleetHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:10:24.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spaceship.cs",
+              "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\Labor\\ZHgyak2\\ZHgyak2\\Spaceship.cs",
+              "RelativeDocumentMoniker": "ZHgyak2\\Spaceship.cs",
+              "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\Labor\\ZHgyak2\\ZHgyak2\\Spaceship.cs",
+              "RelativeToolTip": "ZHgyak2\\Spaceship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:44:49.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\Labor\\ZHgyak2\\ZHgyak2\\Program.cs",
+              "RelativeDocumentMoniker": "ZHgyak2\\Program.cs",
+              "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\Labor\\ZHgyak2\\ZHgyak2\\Program.cs",
+              "RelativeToolTip": "ZHgyak2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:38:16.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

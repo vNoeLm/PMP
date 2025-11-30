@@ -1,0 +1,14 @@
+C:\Users\Noel\Documents\GitHub\Labor\ZHgyak2\ZHgyak2\bin\Debug\net8.0\ZHgyak2.exe
+C:\Users\Noel\Documents\GitHub\Labor\ZHgyak2\ZHgyak2\bin\Debug\net8.0\ZHgyak2.deps.json
+C:\Users\Noel\Documents\GitHub\Labor\ZHgyak2\ZHgyak2\bin\Debug\net8.0\ZHgyak2.runtimeconfig.json
+C:\Users\Noel\Documents\GitHub\Labor\ZHgyak2\ZHgyak2\bin\Debug\net8.0\ZHgyak2.dll
+C:\Users\Noel\Documents\GitHub\Labor\ZHgyak2\ZHgyak2\bin\Debug\net8.0\ZHgyak2.pdb
+C:\Users\Noel\Documents\GitHub\Labor\ZHgyak2\ZHgyak2\obj\Debug\net8.0\ZHgyak2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noel\Documents\GitHub\Labor\ZHgyak2\ZHgyak2\obj\Debug\net8.0\ZHgyak2.AssemblyInfoInputs.cache
+C:\Users\Noel\Documents\GitHub\Labor\ZHgyak2\ZHgyak2\obj\Debug\net8.0\ZHgyak2.AssemblyInfo.cs
+C:\Users\Noel\Documents\GitHub\Labor\ZHgyak2\ZHgyak2\obj\Debug\net8.0\ZHgyak2.csproj.CoreCompileInputs.cache
+C:\Users\Noel\Documents\GitHub\Labor\ZHgyak2\ZHgyak2\obj\Debug\net8.0\ZHgyak2.dll
+C:\Users\Noel\Documents\GitHub\Labor\ZHgyak2\ZHgyak2\obj\Debug\net8.0\refint\ZHgyak2.dll
+C:\Users\Noel\Documents\GitHub\Labor\ZHgyak2\ZHgyak2\obj\Debug\net8.0\ZHgyak2.pdb
+C:\Users\Noel\Documents\GitHub\Labor\ZHgyak2\ZHgyak2\obj\Debug\net8.0\ZHgyak2.genruntimeconfig.cache
+C:\Users\Noel\Documents\GitHub\Labor\ZHgyak2\ZHgyak2\obj\Debug\net8.0\ref\ZHgyak2.dll

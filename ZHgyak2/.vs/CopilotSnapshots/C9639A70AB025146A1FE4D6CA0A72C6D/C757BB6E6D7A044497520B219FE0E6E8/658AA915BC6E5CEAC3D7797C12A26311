@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ZHgyak2
+{
+    internal class Spaceship
+    {
+        string name;
+        ZHgyak2.ShipClassType shipClass;
+    }
+}

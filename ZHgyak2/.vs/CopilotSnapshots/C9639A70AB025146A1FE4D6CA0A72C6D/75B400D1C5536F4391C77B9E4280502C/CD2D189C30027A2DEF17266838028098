@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ZHgyak2
+{
+    internal class Spaceship
+    {
+        string name;
+        ShipClassType shipClass;
+        int crewCapacity;
+        CrewStatusType crewStatus;
+        int cargoTonnage;
+        DateTime lastMessage;
+
+        public Spaceship(string Name, ShipClassType ShipClass, int CrewCapacity, CrewStatusType CrewStatus, int CargoTonnage, DateTime LastMessage)
+        {
+            this.name = Name;
+            this.shipClass = ShipClass;
+            this.crewCapacity = CrewCapacity;
+            this.crewStatus = CrewStatus;
+            this.cargoTonnage = CargoTonnage;
+            this.lastMessage = LastMessage;
+        }
+
+        public string Name => name;
+        public ShipClassType ShipClass => shipClass;
+        public int CrewCapacity => crewCapacity;
+        public CrewStatusType CrewStatus => crewStatus;
+        public int CargoTonnage => cargoTonnage;
+        public DateTime LastMessage => lastMessage;
+    }
+}
