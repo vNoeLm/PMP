@@ -17,24 +17,24 @@
             }
             index = 1;
 
-            int totalPaths = CalculatePaths(lines, "end");
+            long totalPaths = CalculatePaths(lines, "end");
             WriteOutput(totalPaths);
         }
 
-        private static int CalculatePaths(string[] lines, string stopAt)
+        private static long CalculatePaths(string[] lines, string stopAt)
         {
-            int paths = 1;
+            long paths = 1;
             while (lines[index] != stopAt)
             {
                 if (lines[index] == "if")
                 {
                     index++;
-                    int ifPaths = CalculatePaths(lines, "else");
-                    int elsePaths = CalculatePaths(lines, "endif");
+                    long ifPaths = CalculatePaths(lines, "else");
+                    long elsePaths = CalculatePaths(lines, "endif");
 
                     index++;
 
-                    int nestedTotal = ifPaths + elsePaths;
+                    long nestedTotal = ifPaths + elsePaths;
                     paths *= nestedTotal;
                 }
                 else
@@ -45,7 +45,7 @@
             return paths;
         }
 
-        private static void WriteOutput(int possibilities)
+        private static void WriteOutput(long possibilities)
         {
             StreamWriter sw = new StreamWriter("output.txt");
             sw.Write(possibilities);

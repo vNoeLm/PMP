@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vnoel\\Documents\\GitHub\\Labor\\GyakZH\\",
+  "WorkspaceRootPath": "C:\\Users\\Noel\\Desktop\\GitHub\\Labor\\GyakZH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAC284E3-B3E5-491B-9CAD-C098AD282EF9}|GyakZH\\GyakZH.csproj|c:\\users\\vnoel\\documents\\github\\labor\\gyakzh\\gyakzh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DAC284E3-B3E5-491B-9CAD-C098AD282EF9}|GyakZH\\GyakZH.csproj|c:\\users\\noel\\desktop\\github\\labor\\gyakzh\\gyakzh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAC284E3-B3E5-491B-9CAD-C098AD282EF9}|GyakZH\\GyakZH.csproj|solutionrelative:gyakzh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vnoel\\Documents\\GitHub\\Labor\\GyakZH\\GyakZH\\bin\\Debug\\net8.0\\genre.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Noel\\Desktop\\GitHub\\Labor\\GyakZH\\GyakZH\\bin\\Debug\\net8.0\\genre.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GyakZH\\bin\\Debug\\net8.0\\genre.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vnoel\\Documents\\GitHub\\Labor\\GyakZH\\GyakZH\\bin\\Debug\\net8.0\\games_dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Noel\\Desktop\\GitHub\\Labor\\GyakZH\\GyakZH\\bin\\Debug\\net8.0\\games_dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GyakZH\\bin\\Debug\\net8.0\\games_dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAC284E3-B3E5-491B-9CAD-C098AD282EF9}|GyakZH\\GyakZH.csproj|c:\\users\\vnoel\\documents\\github\\labor\\gyakzh\\gyakzh\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DAC284E3-B3E5-491B-9CAD-C098AD282EF9}|GyakZH\\GyakZH.csproj|c:\\users\\noel\\desktop\\github\\labor\\gyakzh\\gyakzh\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAC284E3-B3E5-491B-9CAD-C098AD282EF9}|GyakZH\\GyakZH.csproj|solutionrelative:gyakzh\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,48 +36,45 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Games.cs",
-              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\Labor\\GyakZH\\GyakZH\\Games.cs",
+              "DocumentMoniker": "C:\\Users\\Noel\\Desktop\\GitHub\\Labor\\GyakZH\\GyakZH\\Games.cs",
               "RelativeDocumentMoniker": "GyakZH\\Games.cs",
-              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\Labor\\GyakZH\\GyakZH\\Games.cs",
+              "ToolTip": "C:\\Users\\Noel\\Desktop\\GitHub\\Labor\\GyakZH\\GyakZH\\Games.cs",
               "RelativeToolTip": "GyakZH\\Games.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T07:49:08.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T07:49:08.778Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "games_dataset.csv",
-              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\Labor\\GyakZH\\GyakZH\\bin\\Debug\\net8.0\\games_dataset.csv",
+              "DocumentMoniker": "C:\\Users\\Noel\\Desktop\\GitHub\\Labor\\GyakZH\\GyakZH\\bin\\Debug\\net8.0\\games_dataset.csv",
               "RelativeDocumentMoniker": "GyakZH\\bin\\Debug\\net8.0\\games_dataset.csv",
-              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\Labor\\GyakZH\\GyakZH\\bin\\Debug\\net8.0\\games_dataset.csv",
+              "ToolTip": "C:\\Users\\Noel\\Desktop\\GitHub\\Labor\\GyakZH\\GyakZH\\bin\\Debug\\net8.0\\games_dataset.csv",
               "RelativeToolTip": "GyakZH\\bin\\Debug\\net8.0\\games_dataset.csv",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-10-12T07:48:30.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T07:48:30.06Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "genre.txt",
-              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\Labor\\GyakZH\\GyakZH\\bin\\Debug\\net8.0\\genre.txt",
+              "DocumentMoniker": "C:\\Users\\Noel\\Desktop\\GitHub\\Labor\\GyakZH\\GyakZH\\bin\\Debug\\net8.0\\genre.txt",
               "RelativeDocumentMoniker": "GyakZH\\bin\\Debug\\net8.0\\genre.txt",
-              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\Labor\\GyakZH\\GyakZH\\bin\\Debug\\net8.0\\genre.txt",
+              "ToolTip": "C:\\Users\\Noel\\Desktop\\GitHub\\Labor\\GyakZH\\GyakZH\\bin\\Debug\\net8.0\\genre.txt",
               "RelativeToolTip": "GyakZH\\bin\\Debug\\net8.0\\genre.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-12T07:38:25.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T07:38:25.415Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\Labor\\GyakZH\\GyakZH\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Noel\\Desktop\\GitHub\\Labor\\GyakZH\\GyakZH\\Program.cs",
               "RelativeDocumentMoniker": "GyakZH\\Program.cs",
-              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\Labor\\GyakZH\\GyakZH\\Program.cs",
+              "ToolTip": "C:\\Users\\Noel\\Desktop\\GitHub\\Labor\\GyakZH\\GyakZH\\Program.cs",
               "RelativeToolTip": "GyakZH\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

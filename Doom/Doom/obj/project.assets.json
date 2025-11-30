@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Noel\\Documents\\GitHub\\Labor\\Doom\\Doom\\Doom.csproj",
+      "projectUniqueName": "C:\\Users\\Noel\\Desktop\\GitHub\\Labor\\Doom\\Doom\\Doom.csproj",
       "projectName": "Doom",
-      "projectPath": "C:\\Users\\Noel\\Documents\\GitHub\\Labor\\Doom\\Doom\\Doom.csproj",
+      "projectPath": "C:\\Users\\Noel\\Desktop\\GitHub\\Labor\\Doom\\Doom\\Doom.csproj",
       "packagesPath": "C:\\Users\\Noel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Noel\\Documents\\GitHub\\Labor\\Doom\\Doom\\obj\\",
+      "outputPath": "C:\\Users\\Noel\\Desktop\\GitHub\\Labor\\Doom\\Doom\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
